@@ -32,7 +32,7 @@ git clone https://github.com/your-username/your-repo.git
 cd your-repo
 ```
 
-###2. Create a Virtual Environment (optional but recommended):
+### 2. Create a Virtual Environment (optional but recommended):
 
 ```bash
 Copy
@@ -41,7 +41,7 @@ python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
-###3. Install the Dependencies:
+### 3. Install the Dependencies:
 
 ```bash
 Copy
@@ -60,7 +60,7 @@ matplotlib>=3.5.0
 seaborn>=0.12.0
 ```
 
-###4. Download and add the Dataset:
+### 4. Download and add the Dataset:
 
 You can download the dataset from Kaggle:
 [Amazon Top 50 Bestselling Books (2009-2019) - Kaggle](https://www.kaggle.com/sootersaalu/amazon-top-50-bestselling-books-2009-2019/download)
@@ -74,7 +74,7 @@ Edit
 streamlit run app.py
 ```
 
-###About the Code
+## About the Code
 The main script app.py contains the following sections:
 
 Data Loading & Preprocessing:
@@ -90,6 +90,6 @@ Bar charts for top authors and unique book counts
 Streamlit App Layout:
 A sidebar to select between various visualizations and a main area that displays the corresponding analysis.
 
-###Acknowledgments
+## Acknowledgments
 This project is based on the dataset of Amazon’s best selling books from 2009 to 2019.
 Special thanks to all the contributors and the community for their continuous support.

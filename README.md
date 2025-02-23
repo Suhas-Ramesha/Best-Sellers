@@ -2,6 +2,12 @@
 
 In this article, I’m going to introduce you to a data science project on **Amazon Bestselling Books Analysis** using Python. The dataset consists of Amazon’s 50 Best Books between 2009 and 2019 – categorized into fiction and non-fiction using Goodreads. With a total of 550 books, this project dives into data preparation, visualization, and analysis.
 
+## Demo
+
+You can view the live demo of the Streamlit dashboard here:  
+[Streamlit Demo](https://best-sellers-cre7gx3kmprgrcyvj9appjt.streamlit.app/)
+
+
 ## Project Overview
 
 This project covers:
@@ -14,10 +20,6 @@ This project covers:
   - Top authors for Fiction and Non-Fiction categories
   - Top 20 best-selling authors analysis based on appearances, unique books, and total reviews
 
-## Demo
-
-You can view the live demo of the Streamlit dashboard here:  
-[Streamlit Demo](https://best-sellers-cre7gx3kmprgrcyvj9appjt.streamlit.app/)
 
 ## Installation
 

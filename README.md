@@ -1,6 +1,6 @@
 # Amazon Bestselling Books Analysis with Python
 
-In this article, I’m going to introduce you to a data science project on **Amazon Bestselling Books Analysis** using Python. The dataset consists of Amazon’s 50 Best Books between 2009 and 2019 – categorized into fiction and non-fiction using Goodreads. With a total of 550 books, this project dives into data preparation, visualization, and analysis.
+This is a data science project on **Amazon Bestselling Books Analysis** using Python. The dataset consists of Amazon’s 50 Best Books between 2009 and 2019 – categorized into fiction and non-fiction using Goodreads. With a total of 550 books, this project dives into data preparation, visualization, and analysis.
 
 ## Demo
 
